@@ -1,0 +1,19 @@
+.line-chart-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.line-chart-page h1 {
+  margin-bottom: 20px;
+}
+
+.line-chart-page p {
+  font-size: 1.2em;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
